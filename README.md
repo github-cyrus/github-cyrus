@@ -7,7 +7,7 @@ I am a data science enthusiast with a strong foundation in data analysis, machin
 
 - **GitHub:** [github-cyrus](https://github.com/github-cyrus)
 - **LinkedIn:** [LinkedIn Profile](#)
-- **Contact:** myownpersonal005@gmail.com
+- **Contact:** itschandu05@gmail.com
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
